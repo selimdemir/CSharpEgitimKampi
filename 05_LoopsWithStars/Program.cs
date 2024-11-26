@@ -164,9 +164,7 @@ namespace _05_LoopsWithStars
 
             #endregion
 
-            Console.Read();
-
-            //deneme
+            Console.Read();            
         }
     }
 }
