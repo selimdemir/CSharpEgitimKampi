@@ -153,7 +153,7 @@ namespace _04_Loops
 
             //ones = number % 10;
             //tens = (number % 100) / 10;
-            //hundreds = number / 100;//4.56 --> 4
+            //hundreds = number / 100;
 
             //Console.WriteLine(ones + "-" + tens + "-" + hundreds);
 

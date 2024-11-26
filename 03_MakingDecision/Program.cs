@@ -65,11 +65,11 @@ namespace _03_MakingDecision
             //average = (exam1 + exam2 + exam3) / 3;
             //Console.WriteLine("Sınavların Ortalaması: " + average);
 
-            //if (average > 0 & average <= 50)
+            //if (average> 0 & average <= 50)
             //{
             //    result = "Sonuç vasat";
             //}
-            //if (average > 50 & average <= 70)
+            //if (average> 50 & average <= 70)
             //{
             //    result = "Sonuç Orta";
             //}
