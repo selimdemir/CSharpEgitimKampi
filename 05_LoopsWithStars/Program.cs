@@ -41,7 +41,7 @@ namespace _05_LoopsWithStars
 
             //for (int i = 1; i <= 5; i++)
             //{
-            //    for(int j = 1; j <= i; j++)
+            //    for (int j = 1; j <= i; j++)
             //    {
             //        Console.Write("*");
             //    }
@@ -103,8 +103,7 @@ namespace _05_LoopsWithStars
 
             //    Console.WriteLine();
             //}
-
-            ////alt kısım
+            //alt kısım
 
             //for (int i = n - 1; i >= 1; i--)
             //{
